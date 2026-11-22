@@ -1,0 +1,43 @@
+{
+ "textures": {
+  "particle": "oreganic:blocks/stem_connected",
+  "stem": "oreganic:blocks/stem_connected"
+ },
+ "elements": [
+  {
+   "from": [
+    8,
+    -1,
+    8
+   ],
+   "to": [
+    16,
+    15,
+    8
+   ],
+   "shade": false,
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      0,
+      8,
+      16
+     ],
+     "texture": "#stem",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      8,
+      16
+     ],
+     "texture": "#stem",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

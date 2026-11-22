@@ -1,0 +1,12 @@
+{
+ "parent": "block/cube",
+ "textures": {
+  "particle": "oreganic:blocks/mineralextractorside",
+  "down": "oreganic:blocks/mineralextractorbottom",
+  "up": "oreganic:blocks/mineralextractorbottom",
+  "north": "oreganic:blocks/mineralextractorfronton",
+  "south": "oreganic:blocks/mineralextractorside",
+  "east": "oreganic:blocks/mineralextractorside",
+  "west": "oreganic:blocks/mineralextractorside"
+ }
+}

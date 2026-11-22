@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "active=false,facing=north": {
+   "model": "oreganic:organic_infuser"
+  },
+  "active=true,facing=north": {
+   "model": "oreganic:organic_infuser_on"
+  },
+  "active=false,facing=east": {
+   "model": "oreganic:organic_infuser",
+   "y": 90
+  },
+  "active=true,facing=east": {
+   "model": "oreganic:organic_infuser_on",
+   "y": 90
+  },
+  "active=false,facing=south": {
+   "model": "oreganic:organic_infuser",
+   "y": 180
+  },
+  "active=true,facing=south": {
+   "model": "oreganic:organic_infuser_on",
+   "y": 180
+  },
+  "active=false,facing=west": {
+   "model": "oreganic:organic_infuser",
+   "y": 270
+  },
+  "active=true,facing=west": {
+   "model": "oreganic:organic_infuser_on",
+   "y": 270
+  }
+ }
+}

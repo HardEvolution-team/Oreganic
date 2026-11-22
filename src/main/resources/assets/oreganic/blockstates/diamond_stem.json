@@ -1,0 +1,148 @@
+{
+ "variants": {
+  "age=0,facing=up": {
+   "model": "oreganic:stem_age0"
+  },
+  "age=0,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=0,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=0,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=0,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=1,facing=up": {
+   "model": "oreganic:stem_age1"
+  },
+  "age=1,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=1,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=1,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=1,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=2,facing=up": {
+   "model": "oreganic:stem_age2"
+  },
+  "age=2,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=2,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=2,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=2,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=3,facing=up": {
+   "model": "oreganic:stem_age3"
+  },
+  "age=3,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=3,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=3,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=3,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=4,facing=up": {
+   "model": "oreganic:stem_age4"
+  },
+  "age=4,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=4,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=4,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=4,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=5,facing=up": {
+   "model": "oreganic:stem_age5"
+  },
+  "age=5,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=5,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=5,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=5,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=6,facing=up": {
+   "model": "oreganic:stem_age6"
+  },
+  "age=6,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=6,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=6,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=6,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  },
+  "age=7,facing=up": {
+   "model": "oreganic:stem_age7"
+  },
+  "age=7,facing=east": {
+   "model": "oreganic:stem_connected"
+  },
+  "age=7,facing=south": {
+   "model": "oreganic:stem_connected",
+   "y": 90
+  },
+  "age=7,facing=west": {
+   "model": "oreganic:stem_connected",
+   "y": 180
+  },
+  "age=7,facing=north": {
+   "model": "oreganic:stem_connected",
+   "y": 270
+  }
+ }
+}
