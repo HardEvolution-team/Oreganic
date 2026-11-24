@@ -1,0 +1,19 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "oreganic",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "oreganic_mod_1.7.10.jar",
+      "name": "oreganic_mod_1.7.10.jar - Oreganic MC1.7.10 R1.0",
+      "sha256": "34fa2359bcee5b545c71442f4a50ae9019aa01897c50ed02c4643fdda477febd",
+      "size": 102317,
+      "page": "https://crystic.github.io/oreganic.html",
+      "mirrors": [
+        "scrape:https://files2.9minecraft.net/index.php?act=dl&id=1686537976 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1686537976&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://files2.mc-mod.net/index.php?act=dl&id=1686537976 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1686537976&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    }
+  ]
+}
